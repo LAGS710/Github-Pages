@@ -12,7 +12,7 @@ Este proyecto muestra el uso básico de las siguientes etiquetas:
 Tambien se hace uso de etiquetas semánticas como son las siguientes:
 
 - `<header>` para en encabezados
-- `<nav>` para enlaces de nevegación
+- `<nav>` para enlaces de navegación
 - `<footer>` para pie de página
 - `<section>` Agrupa contenido relacionado
 
