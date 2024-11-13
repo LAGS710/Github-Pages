@@ -1,6 +1,6 @@
 
 
-# Maquetado básico un página HTML
+# Maquetado básico de una página HTML
 Este proyecto muestra el uso básico de las siguientes etiquetas:
 
 -  `<p>` para párrafos
